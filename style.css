@@ -1,0 +1,29 @@
+body{
+    color: gray;
+}
+.nav-link{
+    margin-top: 12px; 
+    margin-left: 15px;
+}
+
+.secti{
+    margin-top: 25px;
+    background-color:#ebe6e6;
+    padding: 25px;
+    margin-right: 95px;
+    margin-left: 95px;
+    box-shadow: 0 0 20px 0px black;
+}
+
+.mmm:hover{
+    opacity:1;
+}
+.mmm{
+    opacity:0.5;
+}
+.ss2{
+    margin-right: 95px;
+    margin-left: 95px;
+    box-shadow: 0 0 10px 0px black;
+    color: gray;
+}
